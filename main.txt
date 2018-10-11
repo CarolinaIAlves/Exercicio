@@ -1,8 +1,5 @@
 Primeira linha
 Segunda linha
 Eu sou o clone. (Clone)
-<<<<<<< HEAD
 Teste
-=======
 a sofia escreveu
->>>>>>> 1d0df0539f6237741a69d95e6accbcd6af18fe0e
